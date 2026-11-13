@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+dist/
+.shopify/
+*.log
+extensions/*/manifest.json
+extensions/*/dist/
